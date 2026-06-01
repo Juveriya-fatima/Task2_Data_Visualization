@@ -38,3 +38,6 @@ Superstore Sales Dataset
 ## Outcome
 
 Created an interactive dashboard that helps analyze sales performance and supports data-driven decision making.
+## Dashboard Preview
+
+![Dashboard](SALES PERFORMANCE DASHBOARD.png)
