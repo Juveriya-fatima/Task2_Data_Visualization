@@ -41,4 +41,4 @@ Created an interactive dashboard that helps analyze sales performance and suppor
 
 ## Dashboard Preview
 
-![Dashboard](Sales%20Performance%20Dashboard.png)
+![Dashboard](dashboard.png)
